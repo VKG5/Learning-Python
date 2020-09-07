@@ -128,9 +128,12 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-
 # Images
 *.jpg
 *.png
 *.raw
 *.jpeg
+
+# Datasets
+*.zip
+*.rar
